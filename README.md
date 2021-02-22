@@ -14,6 +14,9 @@ I am a puzzle who has three stacks and many disks.
 
 I start with all my disks on the left stack and the objective of the game is to bring the whole the stack of disks to the rightmost stack.
 
+<img
+src="https://github.com/nataliabu/towers_of_hanoi/blob/main/towrsofhanoi.gif">
+
 ## My rules
 
 1. Only one disk can be moved at a time.
