@@ -39,6 +39,8 @@ def get_input():
             for i in range(len(stacks)):
                 if user_input == choices[i]:
                     return stacks[i]
+        else:
+            print("Fake news, '{}' is not a stack!".format(user_input))
 
 #Play the Game
 num_user_moves = 0
